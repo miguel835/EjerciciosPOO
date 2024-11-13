@@ -1,0 +1,7 @@
+E:\Workspace\EjerciciosPOO\02EntradaDatos\EntradaDatos\bin\Debug\EntradaDatos.exe.config
+E:\Workspace\EjerciciosPOO\02EntradaDatos\EntradaDatos\bin\Debug\EntradaDatos.exe
+E:\Workspace\EjerciciosPOO\02EntradaDatos\EntradaDatos\bin\Debug\EntradaDatos.pdb
+E:\Workspace\EjerciciosPOO\02EntradaDatos\EntradaDatos\obj\Debug\EntradaDatos.csproj.AssemblyReference.cache
+E:\Workspace\EjerciciosPOO\02EntradaDatos\EntradaDatos\obj\Debug\EntradaDatos.csproj.CoreCompileInputs.cache
+E:\Workspace\EjerciciosPOO\02EntradaDatos\EntradaDatos\obj\Debug\EntradaDatos.exe
+E:\Workspace\EjerciciosPOO\02EntradaDatos\EntradaDatos\obj\Debug\EntradaDatos.pdb
