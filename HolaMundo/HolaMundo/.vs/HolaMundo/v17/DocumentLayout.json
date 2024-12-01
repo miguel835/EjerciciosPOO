@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Workspace\\EjerciciosPOO\\02EntradaDatos\\EntradaDatos\\",
+  "WorkspaceRootPath": "C:\\workspace\\EjerciciosPOO\\HolaMundo\\HolaMundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FD298F6-F7D7-4B31-A167-92693084CFF6}|EntradaDatos.csproj|e:\\workspace\\ejerciciospoo\\02entradadatos\\entradadatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FD298F6-F7D7-4B31-A167-92693084CFF6}|EntradaDatos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A25491E-F811-4A0A-A4E9-E22E55F6E419}|HolaMundo.csproj|c:\\workspace\\ejerciciospoo\\holamundo\\holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A25491E-F811-4A0A-A4E9-E22E55F6E419}|HolaMundo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Workspace\\EjerciciosPOO\\02EntradaDatos\\EntradaDatos\\Program.cs",
+              "DocumentMoniker": "C:\\workspace\\EjerciciosPOO\\HolaMundo\\HolaMundo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Workspace\\EjerciciosPOO\\02EntradaDatos\\EntradaDatos\\Program.cs",
+              "ToolTip": "C:\\workspace\\EjerciciosPOO\\HolaMundo\\HolaMundo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:19:49.495Z",
+              "WhenOpened": "2024-11-07T22:12:49.018Z",
               "EditorCaption": ""
             }
           ]

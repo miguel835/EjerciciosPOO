@@ -19,6 +19,7 @@ namespace EntradaDatos
         static void Main(string[] args)
         {
             EntradaDatos entradaDatos = new EntradaDatos();
+            entradaDatos.ConfiguracionConsola();
             entradaDatos.LeerDatos();
             entradaDatos.MostrarDatos();
             Console.ReadKey();
@@ -35,23 +36,25 @@ namespace EntradaDatos
         {
             try
             {
-                Console.WriteLine("Ingrese su edad: ");
+                Console.Write("Ingrese su edad: ");
                 edad = Convert.ToInt32(Console.ReadLine());
-                if (true)
-                {
-                    
-                }
-                Console.WriteLine("Ingrese su altura: ");
+                Console.Write("Ingrese su altura: ");
                 altura = Convert.ToDouble(Console.ReadLine());
             }
-            catch (Exception ex) {
-                Console.WriteLine("No se puedo leer los datos proporcionados");
-            }
+            catch { Console.Write("No se puedo leer los datos proporcionados");}
         }
 
         public void MostrarDatos()
         {
-            Console.WriteLine("\nLos datos ingresados son: \n Edad: {0} \n Altura: {1}", edad, altura);
+            Console.WriteLine("\nLos datos ingresados son: \nEdad: {0} \nAltura: {1}", edad, altura);
+        }
+        public void ConfiguracionConsola()
+        {
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Clear();
+            Console.SetCursorPosition(10, 0);
+            Console.WriteLine("PROGRAMA PARA LECTURA DE DATOS");
         }
     }
 }
