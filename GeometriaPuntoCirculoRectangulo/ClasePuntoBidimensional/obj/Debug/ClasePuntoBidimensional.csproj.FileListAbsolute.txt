@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosPOO\ClasePuntoBidimensional\ClasePuntoBidimensional\bin\Debug\ClasePuntoBidimensional.exe.config
+C:\workspace\EjerciciosPOO\ClasePuntoBidimensional\ClasePuntoBidimensional\bin\Debug\ClasePuntoBidimensional.exe
+C:\workspace\EjerciciosPOO\ClasePuntoBidimensional\ClasePuntoBidimensional\bin\Debug\ClasePuntoBidimensional.pdb
+C:\workspace\EjerciciosPOO\ClasePuntoBidimensional\ClasePuntoBidimensional\obj\Debug\ClasePuntoBidimensional.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosPOO\ClasePuntoBidimensional\ClasePuntoBidimensional\obj\Debug\ClasePuntoBidimensional.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosPOO\ClasePuntoBidimensional\ClasePuntoBidimensional\obj\Debug\ClasePuntoBidimensional.exe
+C:\workspace\EjerciciosPOO\ClasePuntoBidimensional\ClasePuntoBidimensional\obj\Debug\ClasePuntoBidimensional.pdb
