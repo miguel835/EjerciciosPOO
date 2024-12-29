@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosPOO\ClaseCuentaBancaria\ClaseCuentaBancaria\bin\Debug\ClaseCuentaBancaria.exe.config
+C:\workspace\EjerciciosPOO\ClaseCuentaBancaria\ClaseCuentaBancaria\bin\Debug\ClaseCuentaBancaria.exe
+C:\workspace\EjerciciosPOO\ClaseCuentaBancaria\ClaseCuentaBancaria\bin\Debug\ClaseCuentaBancaria.pdb
+C:\workspace\EjerciciosPOO\ClaseCuentaBancaria\ClaseCuentaBancaria\obj\Debug\ClaseCuentaBancaria.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosPOO\ClaseCuentaBancaria\ClaseCuentaBancaria\obj\Debug\ClaseCuentaBancaria.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosPOO\ClaseCuentaBancaria\ClaseCuentaBancaria\obj\Debug\ClaseCuentaBancaria.exe
+C:\workspace\EjerciciosPOO\ClaseCuentaBancaria\ClaseCuentaBancaria\obj\Debug\ClaseCuentaBancaria.pdb
