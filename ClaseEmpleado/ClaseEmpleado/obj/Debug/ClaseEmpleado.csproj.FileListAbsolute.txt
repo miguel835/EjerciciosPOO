@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosPOO\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe.config
+C:\workspace\EjerciciosPOO\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.exe
+C:\workspace\EjerciciosPOO\ClaseEmpleado\ClaseEmpleado\bin\Debug\ClaseEmpleado.pdb
+C:\workspace\EjerciciosPOO\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosPOO\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosPOO\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.exe
+C:\workspace\EjerciciosPOO\ClaseEmpleado\ClaseEmpleado\obj\Debug\ClaseEmpleado.pdb

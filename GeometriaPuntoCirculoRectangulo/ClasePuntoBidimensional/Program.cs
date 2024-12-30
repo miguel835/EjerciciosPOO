@@ -35,7 +35,7 @@ namespace ClasePuntoBidimensional
             //Segunda instanciación de la clase Punto
             Punto punto2 = new Punto(NuevoEjeX, NuevoEjeY);
             Console.WriteLine($"La distancia entre ({ejeDeAbscisas},{ejeDeOrdenadas}) y ({NuevoEjeX},{NuevoEjeY}) es: {punto1.DistanciaHaciaUnPuntoEspecifico(punto2):F2}");
-            Thread.Sleep(500);
+            Thread.Sleep(1000);
             Console.Clear();
 
 
@@ -49,14 +49,14 @@ namespace ClasePuntoBidimensional
             Console.WriteLine($"El area del circulo es: {circulo1.CalcularArea():F2}");
             Console.WriteLine($"El perimetro del circulo es: {circulo1.CalcularPerimetro():F2}");
             Console.WriteLine($"El radio del circulo es: {circulo1.getRadio():F2}");
-            Thread.Sleep(500);
+            Thread.Sleep(1000);
             Console.Clear();
 
 
             Console.SetCursorPosition(10, 0);
             Console.WriteLine("CLASE RECTANGULO");
             Console.WriteLine("\nCalculo de la base, la altura, el area y el perimetro de un rectangulo");
-            Console.Write("Ingrese la longitud del rectangulo: ");
+            Console.Write("Ingrese la base del rectangulo: ");
             double baseR = double.Parse(Console.ReadLine());
             Console.Write("Ingrese la longitud del rectangulo: ");
             double longitudR = double.Parse(Console.ReadLine());
@@ -65,7 +65,7 @@ namespace ClasePuntoBidimensional
             Console.WriteLine($"La altura del rectangulo es: {rectangulo.getAltura():F2}");
             Console.WriteLine($"El area del rectangulo es: {rectangulo.calcularArea():F2}");
             Console.WriteLine($"El perimetro del rectangulo es: {rectangulo.calcularPerimetro():F2}");
-            Thread.Sleep(500);
+            Thread.Sleep(1000);
             Console.ReadKey();
         }
     }

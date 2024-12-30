@@ -27,7 +27,7 @@ namespace ClaseCuentaBancaria
             Random aleatorio = new Random();
             CuentaBancaria cuentaBancaria = new CuentaBancaria(aleatorio.Next(100, 10000000).ToString(), Titular, valorDinero, tipo);
             Console.WriteLine("Listo ahora ya tiene su cuenta y puede realizar depositos y retiros");
-            Thread.Sleep(500);
+            Thread.Sleep(1000);
             int opcion;
             do
             {

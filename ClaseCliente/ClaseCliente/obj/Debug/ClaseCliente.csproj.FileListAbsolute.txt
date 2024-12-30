@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosPOO\ClaseCliente\ClaseCliente\bin\Debug\ClaseCliente.exe.config
+C:\workspace\EjerciciosPOO\ClaseCliente\ClaseCliente\bin\Debug\ClaseCliente.exe
+C:\workspace\EjerciciosPOO\ClaseCliente\ClaseCliente\bin\Debug\ClaseCliente.pdb
+C:\workspace\EjerciciosPOO\ClaseCliente\ClaseCliente\obj\Debug\ClaseCliente.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosPOO\ClaseCliente\ClaseCliente\obj\Debug\ClaseCliente.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosPOO\ClaseCliente\ClaseCliente\obj\Debug\ClaseCliente.exe
+C:\workspace\EjerciciosPOO\ClaseCliente\ClaseCliente\obj\Debug\ClaseCliente.pdb

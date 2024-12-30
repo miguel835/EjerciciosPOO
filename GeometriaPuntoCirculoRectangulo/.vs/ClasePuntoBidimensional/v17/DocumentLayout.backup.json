@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\workspace\\EjerciciosPOO\\GeometriaPuntoCirculoRectangulo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53E4E527-54BB-43E5-A3B1-30CB86DA7955}|ClasePuntoBidimensional\\ClasePuntoBidimensional.csproj|c:\\workspace\\ejerciciospoo\\geometriapuntocirculorectangulo\\clasepuntobidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53E4E527-54BB-43E5-A3B1-30CB86DA7955}|ClasePuntoBidimensional\\ClasePuntoBidimensional.csproj|C:\\workspace\\EjerciciosPOO\\GeometriaPuntoCirculoRectangulo\\clasepuntobidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53E4E527-54BB-43E5-A3B1-30CB86DA7955}|ClasePuntoBidimensional\\ClasePuntoBidimensional.csproj|solutionrelative:clasepuntobidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E4E527-54BB-43E5-A3B1-30CB86DA7955}|ClasePuntoBidimensional\\ClasePuntoBidimensional.csproj|C:\\workspace\\EjerciciosPOO\\GeometriaPuntoCirculoRectangulo\\clasepuntobidimensional\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53E4E527-54BB-43E5-A3B1-30CB86DA7955}|ClasePuntoBidimensional\\ClasePuntoBidimensional.csproj|c:\\workspace\\ejerciciospoo\\geometriapuntocirculorectangulo\\clasepuntobidimensional\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53E4E527-54BB-43E5-A3B1-30CB86DA7955}|ClasePuntoBidimensional\\ClasePuntoBidimensional.csproj|solutionrelative:clasepuntobidimensional\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "ClasePuntoBidimensional\\Program.cs",
               "ToolTip": "C:\\workspace\\EjerciciosPOO\\GeometriaPuntoCirculoRectangulo\\ClasePuntoBidimensional\\Program.cs",
               "RelativeToolTip": "ClasePuntoBidimensional\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAowEMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T21:20:01.982Z",
               "EditorCaption": ""
@@ -57,9 +57,10 @@
               "RelativeDocumentMoniker": "ClasePuntoBidimensional\\Rectangulo.cs",
               "ToolTip": "C:\\workspace\\EjerciciosPOO\\GeometriaPuntoCirculoRectangulo\\ClasePuntoBidimensional\\Rectangulo.cs",
               "RelativeToolTip": "ClasePuntoBidimensional\\Rectangulo.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T01:13:40.701Z"
+              "WhenOpened": "2024-12-28T01:13:40.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -69,7 +70,7 @@
               "RelativeDocumentMoniker": "ClasePuntoBidimensional\\Punto.cs",
               "ToolTip": "C:\\workspace\\EjerciciosPOO\\GeometriaPuntoCirculoRectangulo\\ClasePuntoBidimensional\\Punto.cs",
               "RelativeToolTip": "ClasePuntoBidimensional\\Punto.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T23:57:29.573Z"
             },
