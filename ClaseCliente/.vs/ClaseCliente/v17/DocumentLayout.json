@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\workspace\\EjerciciosPOO\\ClaseCliente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57F7F72A-0EEF-4398-8A34-B0F65D0E7A34}|ClaseCliente\\ClaseCliente.csproj|C:\\workspace\\EjerciciosPOO\\ClaseCliente\\clasecliente\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F7F72A-0EEF-4398-8A34-B0F65D0E7A34}|ClaseCliente\\ClaseCliente.csproj|c:\\workspace\\ejerciciospoo\\clasecliente\\clasecliente\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F7F72A-0EEF-4398-8A34-B0F65D0E7A34}|ClaseCliente\\ClaseCliente.csproj|solutionrelative:clasecliente\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{57F7F72A-0EEF-4398-8A34-B0F65D0E7A34}|ClaseCliente\\ClaseCliente.csproj|solutionrelative:clasecliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57F7F72A-0EEF-4398-8A34-B0F65D0E7A34}|ClaseCliente\\ClaseCliente.csproj|c:\\workspace\\ejerciciospoo\\clasecliente\\clasecliente\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57F7F72A-0EEF-4398-8A34-B0F65D0E7A34}|ClaseCliente\\ClaseCliente.csproj|C:\\workspace\\EjerciciosPOO\\ClaseCliente\\clasecliente\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F7F72A-0EEF-4398-8A34-B0F65D0E7A34}|ClaseCliente\\ClaseCliente.csproj|solutionrelative:clasecliente\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "ClaseCliente\\Producto.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T01:58:22.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T01:58:22.123Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "ClaseCliente\\Cliente.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T01:48:25.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T01:48:25.518Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "ClaseCliente\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T01:48:09.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T01:48:09.91Z"
             }
           ]
         }

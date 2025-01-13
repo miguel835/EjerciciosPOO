@@ -1,0 +1,7 @@
+C:\workspace\EjerciciosPOO\ClaseMoto\ClaseMoto\bin\Debug\ClaseMoto.exe.config
+C:\workspace\EjerciciosPOO\ClaseMoto\ClaseMoto\bin\Debug\ClaseMoto.exe
+C:\workspace\EjerciciosPOO\ClaseMoto\ClaseMoto\bin\Debug\ClaseMoto.pdb
+C:\workspace\EjerciciosPOO\ClaseMoto\ClaseMoto\obj\Debug\ClaseMoto.csproj.AssemblyReference.cache
+C:\workspace\EjerciciosPOO\ClaseMoto\ClaseMoto\obj\Debug\ClaseMoto.csproj.CoreCompileInputs.cache
+C:\workspace\EjerciciosPOO\ClaseMoto\ClaseMoto\obj\Debug\ClaseMoto.exe
+C:\workspace\EjerciciosPOO\ClaseMoto\ClaseMoto\obj\Debug\ClaseMoto.pdb
