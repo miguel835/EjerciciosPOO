@@ -1,0 +1,15 @@
+C:\Users\TICS\Desktop\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\TICS\Desktop\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\TICS\Desktop\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\TICS\Desktop\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\TICS\Desktop\Herencia\Herencia\obj\Debug\Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\TICS\Desktop\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\TICS\Desktop\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\TICS\Desktop\Herencia\Herencia\obj\Debug\Herencia.pdb
+C:\Users\MIGUEL DIAZ\Downloads\Telegram Desktop\Herencia\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\MIGUEL DIAZ\Downloads\Telegram Desktop\Herencia\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\MIGUEL DIAZ\Downloads\Telegram Desktop\Herencia\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\MIGUEL DIAZ\Downloads\Telegram Desktop\Herencia\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Downloads\Telegram Desktop\Herencia\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Downloads\Telegram Desktop\Herencia\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\MIGUEL DIAZ\Downloads\Telegram Desktop\Herencia\Herencia\Herencia\obj\Debug\Herencia.pdb
