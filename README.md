@@ -2,6 +2,12 @@
 En este repositorio se encuentran ejercicios para resolverlos con el paradigma de programación orientada
 a objetos y las soluciones a los mismos.
 
+### ¿Cómo clono este repositorio?
+Simplemente copia este comando y ejecutalo en el git
+```bash
+git clone https://github.com/miguel835/EjerciciosPOO.git
+```
+
 ## ¿Como aprendo programación orientada a objetos en C# 12?
 Revisa mi repositorio de [programación orientada a objetos](https://github.com/miguel835/POOcsharp) en este 
 tengo archivos de los temas de programación orientada a objetos 
