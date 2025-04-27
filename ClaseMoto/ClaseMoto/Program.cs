@@ -1,5 +1,4 @@
-﻿/*                                     PRACTICA EXPERIMENTAL
-Integrantes: Díaz Zambrano Miguel Roberth, Pacheco Reyes Jhon Jairo y Quiñonez Mendoza Anthony Alejandro
+﻿/*
 Problema: Una empresa de construcción de motocicletas requiere el desarrollo de un software que controle 
 el software de este vehículo. El software debe implementar una clase motocicleta que tenga al menos 
 tres propiedades y dos métodos que usted considere importantes. Además, esta clase debe estar compuesta de
